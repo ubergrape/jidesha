@@ -3,6 +3,10 @@ Grape Jitsi Desktop Streamer (Jidesha)
 
 This is Grape's fork of Jidesha.
 
+The Chrome Extension is published in the Chrome Extension Store:
+
+https://chrome.google.com/webstore/detail/lliiopkpljclpbaeihgpiefaibhomdfj/
+
 The Jitsi server URL needs to match `*://*.ubergrape.com/*`.
 
 ---
