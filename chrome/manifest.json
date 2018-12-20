@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Jitsi Desktop Streamer",
-  "description": "A simple extension that allows you to stream your desktop into meetings with Jitsi Meet and Jitsi Videobridge.",
-  "version": "0.1.6",
+  "name": "Grape Jitsi Desktop Streamer",
+  "description": "A simple extension that allows you to stream your desktop into meetings with Grape",
+  "version": "0.1.6.2",
   "minimum_chrome_version": "34",
   "icons": {
     "16": "grape-video-logo-16x16.png",
@@ -18,7 +18,7 @@
   ],
   "externally_connectable": {
       "matches": [
-          "*://meet.jit.si/*"
+        "*://*.ubergrape.com/*"
       ]
   }
 }

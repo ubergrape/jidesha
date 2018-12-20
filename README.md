@@ -1,5 +1,11 @@
-Jidesha
+Grape Jitsi Desktop Streamer (Jidesha)
 =======
+
+This is Grape's fork of Jidesha.
+
+The Jitsi server URL needs to match `*://*.ubergrape.com/*`.
+
+---
 
 A Chrome extension for calendar integration (Google Calendar and Office 365) and Screen Sharing in Jitsi Meet.
 
