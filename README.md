@@ -7,7 +7,7 @@ The Chrome Extension is published in the Chrome Extension Store:
 
 https://chrome.google.com/webstore/detail/lliiopkpljclpbaeihgpiefaibhomdfj/
 
-The Jitsi server URL needs to match `*://*.ubergrape.com/*`.
+The Jitsi server URL needs to match `*://*.ubergrape.com/*` or `*://*.grapecall.com/*`.
 
 ---
 
