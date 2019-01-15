@@ -7,6 +7,8 @@ The Chrome Extension is published in the Chrome Extension Store:
 
 https://chrome.google.com/webstore/detail/lliiopkpljclpbaeihgpiefaibhomdfj/
 
+read below how to publish a new version
+
 The Jitsi server URL needs to match `*://*.ubergrape.com/*` or `*://*.grapecall.com/*`.
 
 ---
@@ -66,3 +68,19 @@ install it. For example, you might want to put it
 directly onto your Jitsi Meet server (webroot in `/usr/share/jitsi-meet`).
 This would only be helpful for downloading the extension, as
 Chrome will not allow a direct installation from your site.
+
+1. go to chrome://extensions/
+1. click Pack extension
+    - Extension root directory: chrome folder
+    - Private key file: chrome.pem, get it from our passwort manager
+1. you now have a chrome.crx file
+
+### Publish in Chrome Store
+
+1. open finder, go into chrome directory
+1. select all files, right click -> compress
+1. open https://chrome.google.com/webstore/developer/dashboard
+1. login as Stefan
+1. edit the extension
+1. upload the zip file you created
+1. click publish at the bottom right
